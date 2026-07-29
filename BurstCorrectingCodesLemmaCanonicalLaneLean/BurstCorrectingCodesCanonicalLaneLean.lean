@@ -1,0 +1,9 @@
+import BurstCorrectingCodesLemmaCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace BurstCorrectingCodesLemmaCanonicalLaneLean
+
+-- Root module importing all domain files
+
+end BurstCorrectingCodesLemmaCanonicalLaneLean
+end HautevilleHouse

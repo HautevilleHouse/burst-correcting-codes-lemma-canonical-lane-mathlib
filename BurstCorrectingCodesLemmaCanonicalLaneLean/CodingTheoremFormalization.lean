@@ -1,0 +1,11 @@
+import HautevilleHouse.BurstCorrectingCodesLemmaCanonicalLaneLean.BurstErrorCorrectionBound
+import HautevilleHouse.BurstCorrectingCodesLemmaCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace BurstCorrectingCodesLemmaCanonicalLaneLean
+
+theorem burst_correcting_codes_lemma_formalization (A : AdmissibleCode) : BurstCorrectingCodesLemmaClosure A :=
+  burst_correcting_codes_lemma_endgame A
+
+end BurstCorrectingCodesLemmaCanonicalLaneLean
+end HautevilleHouse
